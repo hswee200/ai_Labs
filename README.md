@@ -1,1 +1,1 @@
-# Lab1_B
+# _AI_Labs
